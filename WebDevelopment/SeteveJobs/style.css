@@ -1,0 +1,26 @@
+body {
+    background-color: #f2f2f2;
+  }
+  
+  header {
+    margin-top: 50px;
+    padding: 50px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  header h1 {
+    font-size: 48px;
+    font-weight: bold;
+  }
+  
+  header p {
+    font-size: 24px;
+    font-weight: lighter;
+  }
+  
+  img {
+    margin-top: 50px;
+    border: 1px solid #333;
+  }
+  

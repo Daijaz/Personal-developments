@@ -1,0 +1,56 @@
+body{
+  background-image: url("/imgs/backwhite.jpg");
+  }
+  .container{
+    background-image: url("/imgs/backwhite.jpg");
+    border-radius: 10px !important;
+  }
+  h1{
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+  }
+  p{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: crimson;
+    text-align: center;
+  }
+  p span{
+    color: crimson;
+  }
+  label{
+    color: #333 !important;
+    font-weight: 500;
+  }
+  .bi-trash:hover{
+    color: #333 !important;
+  }
+  .bi-arrow-clockwise:hover{
+    color: green;
+    font-weight: bold;
+  }
+  a{
+    text-decoration: none;
+  }
+  .bi-arrow-left-circle{
+    color: #666;
+  }
+  .bi-arrow-left-circle:hover{
+    color: green;
+  }
+  .fotoPerfil{
+    margin: 0 auto;
+    max-width: 250px;
+}
+.titleAlumno{
+    color: black;
+    font-weight: 800;
+}
+.logo{
+  max-width: 50px;
+}
+.msjexito{
+  color: green;
+}
